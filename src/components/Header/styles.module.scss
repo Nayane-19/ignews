@@ -4,7 +4,6 @@
 
     img {
         width: 10rem;
-        height: 3rem;
     
     }
 
@@ -57,6 +56,10 @@
                 background: var(--yellow-500);
             }
         }
+    }
+
+    button {
+        margin-left: auto;
     }
 
 }
