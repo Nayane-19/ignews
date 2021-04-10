@@ -19,7 +19,8 @@ O controle de tarefas deste projeto será realizado no gitHub
 - pages para a pasta src
 
 >Instalando dependências ao projeto <br />
-yarn add typescript @types/react @types/node -D
+- yarn add typescript @types/react @types/node -D
+- yarn add sass
 
 
 
