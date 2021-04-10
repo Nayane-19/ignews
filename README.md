@@ -21,6 +21,7 @@ O controle de tarefas deste projeto será realizado no gitHub
 >Instalando dependências ao projeto <br />
 - yarn add typescript @types/react @types/node -D
 - yarn add sass
+- yarn add react-icons
 
 
 
