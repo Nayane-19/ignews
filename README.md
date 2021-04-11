@@ -22,7 +22,9 @@ O controle de tarefas deste projeto será realizado no gitHub
 - yarn add typescript @types/react @types/node -D
 - yarn add sass
 - yarn add react-icons
-- yarn add stripe 
+- yarn add stripe
+- yarn add next-auth
+- yarn add @types/next-auth -D
 
 
 
