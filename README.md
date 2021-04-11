@@ -25,6 +25,7 @@ O controle de tarefas deste projeto será realizado no gitHub
 - yarn add stripe
 - yarn add next-auth
 - yarn add @types/next-auth -D
+- yarn add faunadb
 
 
 
