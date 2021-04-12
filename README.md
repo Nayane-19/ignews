@@ -1,7 +1,8 @@
 ## Projeto IG.NEWS em Desenvolvimento 
 
 ### Preview da Aplicação<br/>
-<img src="../ignews/public/banner.jpeg" alt= "gif"><br />
+
+![image](https://user-images.githubusercontent.com/53491642/114328357-b8f96200-9b12-11eb-8315-dbac4a05c6b1.png)
 
 #### Este projeto tem como finalidade desenvolver habilidades de desenvolvimento com SASS, autenticação de usuário, variáveis de ambiente e integração. <br/> <br />
 
