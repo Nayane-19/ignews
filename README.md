@@ -1,32 +1,23 @@
-O controle de tarefas deste projeto será realizado no gitHub
-### Estrutura do Projeto<br />
-<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br />
-#### Excluído pastas: <br />
-- styles 
->public
-- favicon.ico
-- vercel.cvg
->pages
-- api
+## Projeto IG.NEWS em Desenvolvimento 
 
->Retirados os imports dos arquivos excluídos na pasta:
-- pages/_app.js
+### Preview da Aplicação<br/>
+<img src="../ignews/public/banner.jpeg" alt= "gif"><br />
 
->Criado pasta :
-- src
+#### Este projeto tem como finalidade desenvolver habilidades de desenvolvimento com SASS, autenticação de usuário, variáveis de ambiente e integração. <br/> <br />
 
->Mover a pasta: 
-- pages para a pasta src
+<img src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" alt= "gif"><br /><br />
 
->Instalando dependências ao projeto <br />
-- yarn add typescript @types/react @types/node -D
-- yarn add sass
-- yarn add react-icons
-- yarn add stripe
-- yarn add next-auth
-- yarn add @types/next-auth -D
-- yarn add faunadb
+Instalando dependências ao projeto <br/>
+> yarn <br/> <br/>
 
+### Dependências <br/>
+> yarn add typescript @types/react @types/node -D <br/>
+> yarn add sass<br/>
+> yarn add react-icons<br/>
+> yarn add stripe</br>
+> yarn add next-auth</b>
+> yarn add @types/next-auth -D<br/>
+> yarn add faunadb
 
 
 ## Ícones
@@ -37,5 +28,7 @@ O controle de tarefas deste projeto será realizado no gitHub
 - :checkered_flag: release 
 <br />
 <br />
+
+Eu estou ansiosa para postar o resultado  que contribua e entre em contato!
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nayane-menezes-dev-eng/)
